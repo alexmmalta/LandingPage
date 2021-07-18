@@ -16,11 +16,11 @@ form.addEventListener('submit', (e) =>{
 
     let carregando = `<p>carregando...</p>`
 
-    let pronto = `<p>pronto!</p>`
+    let pronto = `<p>Tudo pronto! Obrigado pela visita!</p>`
 
     content.innerHTML = carregando
 
     setTimeout(() =>{
         content.innerHTML = pronto
-    }, 1005)
+    }, 2000)
 })

@@ -1,4 +1,4 @@
-/* Desculpe a bagunça, sou novo por aqui! */
+/* Desculpe a bagunça, sou novo por aqui! ;p */
 
 *{
     margin: 0;
@@ -45,12 +45,11 @@ h1 {
 
 .card-container {
     text-align: center;
- /*    background-color: #000; */
     border-radius: 25px;
     padding: 50px;
     width: 500px;
-/*     max-width: 500px; */
     display: grid;
+    color: #fff;
 }
 
 .cards-offers {
@@ -69,6 +68,7 @@ h1 {
     padding: 10px;
     border-radius: 5px;
     background: #fff;
+    cursor: pointer;
 }
 
 .product-img {
@@ -102,7 +102,7 @@ form{
 input{
     font-size: large;
     width: 90%;
-    height: 40px;
+    height: 50px;
     margin-bottom: 10px;
     text-align: center;
     border-radius: 12px;
@@ -110,7 +110,6 @@ input{
     backdrop-filter: blur(1rem);
     color: #fff;
     border: 2px solid #ecf0f1;
-/*     padding: 5px; */
     transition: 0.2s;
     outline: none;
 }
@@ -118,12 +117,14 @@ input{
 input:focus{
     width: 100%;
     border-color: #16a085;
+    background: rgba(0, 0, 0, 0.3);
 }
 
 input[type = "submit"]:hover{
     width: 100%;
     border-color: #16a085;
     background: #16a085;
+    cursor: pointer;
 }
 
 footer {
