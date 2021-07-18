@@ -140,7 +140,7 @@ footer {
     html {
 
         background-attachment: fixed;
-        background-size: cover;
+        background-size: auto;
         background-repeat: no-repeat;
         background-position: center;
     }
