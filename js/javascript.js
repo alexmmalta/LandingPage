@@ -22,5 +22,5 @@ form.addEventListener('submit', (e) =>{
 
     setTimeout(() =>{
         content.innerHTML = pronto
-    }, 1000)
+    }, 1005)
 })
