@@ -1,2 +1,7 @@
 # LandingPage
 Desafio Hiring Coders 01
+
+https://blackfridayhc.netlify.app/!
+
+[template](https://user-images.githubusercontent.com/87395747/126081823-b8efeb58-498f-4d5c-bc21-54a020b54e73.jpg)
+
